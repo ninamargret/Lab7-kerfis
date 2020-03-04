@@ -7,3 +7,5 @@ def Fizzbuzz(input):
 
     elif input % 3 == 0:
         return "Fizz"
+
+    return input
