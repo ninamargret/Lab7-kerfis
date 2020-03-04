@@ -4,3 +4,6 @@ def Fizzbuzz(input):
 
     elif input % 5 == 0:
         return "Buzz"
+
+    elif input % 3 == 0:
+        return "Fizz"

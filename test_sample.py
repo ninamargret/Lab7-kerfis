@@ -7,4 +7,4 @@ def test_returnes_fizz_when_divisible_by_five():
     assert sample.Fizzbuzz(5) == "Buzz"
 
 def test_returnes_fizz_when_divisible_by_three():
-    assert sample.Fizzbuzz(3) == "fizz"
+    assert sample.Fizzbuzz(3) == "Fizz"
